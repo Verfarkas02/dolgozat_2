@@ -1,0 +1,18 @@
+/*
+* File: App.java
+* Author: Molnár Csenge Anna
+* Copyright: 2023, Molnár Csenge Anna
+* Group: Szoft I-1 N
+* Date: 2023-04-27
+* Github: https://github.com/Verfarkas02/
+* Licenc: GUI GPL Junit5
+*/
+{
+    "java.project.sourcePaths": ["src", "test"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "k:\\Szoft_I_1_N\\Molnár_Csenge_Anna\\Library\\junit5\\junit-jupiter-api-5.9.2.jar",
+        "k:\\Szoft_I_1_N\\Molnár_Csenge_Anna\\Library\\junit5\\junit-platform-console-standalone-1.9.2.jar"
+    ]
+}
